@@ -1,0 +1,47 @@
+[
+    {
+        "pregunta": "¿Qué significa la sigla CPU?",
+        "respuesta": "unidad central de procesamiento",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué empresa creó el sistema operativo Windows?",
+        "respuesta": "microsoft",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué lenguaje de programación usa la extensión .py?",
+        "respuesta": "python",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué significa HTML?",
+        "respuesta": "lenguaje de marcado de hipertexto",
+        "dificultad": "media"
+    },
+    {
+        "pregunta": "¿Qué empresa desarrolló el sistema operativo Android?",
+        "respuesta": "google",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cómo se le llama al software malicioso diseñado para dañar un sistema?",
+        "respuesta": "malware",
+        "dificultad": "media"
+    },
+    {
+        "pregunta": "¿Qué significa la sigla IA?",
+        "respuesta": "inteligencia artificial",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué dispositivo de almacenamiento no tiene partes móviles, a diferencia del disco duro tradicional?",
+        "respuesta": "ssd",
+        "dificultad": "media"
+    },
+    {
+        "pregunta": "¿Qué nombre recibe la red mundial de computadoras interconectadas?",
+        "respuesta": "internet",
+        "dificultad": "facil"
+    }
+]
