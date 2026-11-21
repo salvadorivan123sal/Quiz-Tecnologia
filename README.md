@@ -8,7 +8,7 @@ Es un juego de preguntas y respuestas sobre Tecnología enfocado en hardware y s
 1. Necesita python instalado en la computadora. 
 2. Clonar este repositorio o descargar los archivos.
 3. Abrir una terminal dentro de la carpeta del proyecto y ejecuta:
-    -python quiz_tecnologia.py
+    python quiz_tecnologia.py
 
 # Captura de pantalla:
 
